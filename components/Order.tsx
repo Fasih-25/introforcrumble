@@ -2,10 +2,11 @@ const EMAIL_HREF =
   "mailto:fasihrana98@gmail.com?subject=Hello%20Crumble%20%E2%80%94%20Fasih%20Rana%20(Full%20Stack%20Developer)";
 
 const contacts = [
+  { label: "Call +92 316 3694136", href: "tel:+923163694136" },
   { label: "WhatsApp 0302 3454259", href: "https://wa.me/923023454259" },
   { label: "LinkedIn", href: "https://linkedin.com/in/fasih-rana-2108a6227" },
   { label: "GitHub", href: "https://github.com/Fasih-25" },
-  { label: "Portfolio", href: "https://fasih-ranaportfolio.netlify.app" },
+  { label: "Portfolio", href: "https://fasih-rana-portfolio.netlify.app/" },
 ];
 
 export default function Order() {
